@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 const questions = [
-  "Are subjects healthy young or middle-aged adults?",
+  "Does the study include healthy young or middle-aged adult participants?",
   "Does the study involve a category learning task with novel category structures?",
   "Does the study compare post-learning and pre-learning neural data?",
   "Does the study use functional neuroimaging during a task that is unrelated to categorization?",
