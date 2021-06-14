@@ -16,7 +16,7 @@ width: 75vw;
 height: 75vw;
 padding-top: 28.125%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 padding-bottom: 28.125%;
-margin: 4vw auto;
+margin: calc(50vh - 37.5vw) auto;
 border: 1px solid black;
 }
 
@@ -28,7 +28,7 @@ text-align: center;
 
 .buttonRow {
 position: relative;
-top: 82%;
+top: 100%;
 display: flex;
 justify-content: space-evenly;
 }
