@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 const questions = [
-  "Subjects are healthy young or middle-aged adults",
-  "Study involves a category learning task with novel category structures",
-  "Study compares post-learning and pre-learning neural data",
-  "Study uses functional neuroimaging during a task that is unrelated to categorization",
-  "Study uses an experimental or quasi-experimental design",
+  "Are subjects healthy young or middle-aged adults?",
+  "Does the study involve a category learning task with novel category structures?",
+  "Does the study compare post-learning and pre-learning neural data?",
+  "Does the study use functional neuroimaging during a task that is unrelated to categorization?",
+  "Does the study use an experimental or quasi-experimental design?",
 ];
 
 class Question extends React.Component {
