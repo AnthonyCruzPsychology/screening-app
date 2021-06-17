@@ -18,7 +18,7 @@ max-width: 300px;
 max-height: 300px;
 padding-top: 100px; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 padding-bottom: 100px;
-margin: 12.5% auto;
+margin: 100px auto;
 border: 1px solid black;
 }
 
